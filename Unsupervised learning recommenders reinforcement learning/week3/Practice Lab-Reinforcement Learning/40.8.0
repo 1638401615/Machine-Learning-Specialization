@@ -1,0 +1,7 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Collecting setuptools
+  Using cached https://pypi.tuna.tsinghua.edu.cn/packages/2a/a3/49c29680d6118273b992b40ebe881e8e899b8e26a4e951f37f223da8f862/setuptools-63.4.3-py3-none-any.whl (1.2 MB)
+Collecting wheel
+  Using cached https://pypi.tuna.tsinghua.edu.cn/packages/27/d6/003e593296a85fd6ed616ed962795b2f87709c3eee2bca4f6d0fe55c6d00/wheel-0.37.1-py2.py3-none-any.whl (35 kB)
+Installing collected packages: wheel, setuptools
+Successfully installed setuptools-63.4.3 wheel-0.37.1
